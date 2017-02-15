@@ -18,4 +18,5 @@ for i in [0..10]
 
 To delete the layer after storing it as a class, pass the *true* argument.
 
-Row = createClass(sketch.row, true)
+````Row = createClass(sketch.row, true)
+````
